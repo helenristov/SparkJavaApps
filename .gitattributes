@@ -1,1 +1,2 @@
-*.rb linguist-language=Java
+project/* linguist-vendored
+target/* linguist-vendored
